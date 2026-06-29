@@ -1,7 +1,7 @@
 {
   "projectId": "virtual-dimension-bcff3",
   "appId": "1:901630247139:web:cdf73b41da9119a282c5d6",
-  "apiKey": "AIzaSyCtuIEtcQfK8r6nPgdgyOO98OdMdPyu4-c",
+  "apiKey": "YOUR_GEMINI_API_KEY",
   "authDomain": "virtual-dimension-bcff3.firebaseapp.com",
   "storageBucket": "virtual-dimension-bcff3.firebasestorage.app",
   "messagingSenderId": "901630247139",
